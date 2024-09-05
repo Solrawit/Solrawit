@@ -4,7 +4,7 @@
 
 - 👋 Hi, myn's frame :))
 - 👀 I’m interested in computer language.
-- 🌱 I’m currently learning React , Nodejs , Vuejs & Vuetify . 
+- 🌱 I’m currently learning React , Vuejs & Vuetify . 
 - 💞️ I’m looking to collaborate on Job intern.
 
 
