@@ -3,9 +3,9 @@
 </div>
 
 - 👋 Hi, myn's frame :))
-- 👀 I’m interested in computer language.
-- 🌱 I’m currently learning React , Vuejs & Vuetify . 
-- 💞️ I’m looking to collaborate on Job intern.
+- 👀 Have a good day .
+- 🌱 I’m currently learning React , Vuejs & Vuetify , Python . 
+- 💞️ I’m looking to collaborate on Job .
 
 
 <!---
